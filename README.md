@@ -1,5 +1,9 @@
 # Cielo Heat
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/annemuthoka01-coder/gta6-jodenne29/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/annemuthoka01-coder/gta6-jodenne29/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
 **Cielo Heat** is an original top-down open-world crime game built entirely in vanilla JavaScript (ES modules, single 2D HTML5 canvas, zero external libraries or network dependencies). Explore the sun-soaked coastal city of Cielo, steal vehicles, evade police chases, complete story missions, and build your criminal empire.
 
 ## Getting Started
